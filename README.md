@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pratik.mahankal14@gmail.com**
 
-- 📄 Know about my experiences [Resume - Pratik Mahankal](https://drive.google.com/file/d/1r3ctDzQdfDhZBbtdgQECaW0tYSvb25XV/view?usp=sharing)
+- 📄 Know about my experiences [Resume - Pratik Mahankal](https://drive.google.com/file/d/18dPksqcU-0Ur_awr4X2gIjLSqhI4Cxpg/view?usp=sharing)
 
 <h3 align="left">Connect with me:
 <a href="https://twitter.com/pratik_mahankal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_mahankal" height="30" width="40" /></a>
@@ -22,11 +22,11 @@
 
 | |  |
 | ------------- | ------------- |
-|<h4>Programming Languages: </h4>|  Python, C, C++, JavaScript, Java, Lua  |
-|<h4>Robotics Stack: </h4>|  ROS, Gazebo, MoveIt, RViz, played with various MCUs, RC communication, Locomotion, Manipulation, CoppeliaSim, Octave, PID Controller, Signal Filters  |
-|<h4>Databases: </h4> |  PostgreSQL, Oracle, MySQL, Data Warehousing, Data Mining, Good Conceptual Understanding  |
-|<h4>Web stack: </h4>|  Node.js, Express, EJS, Database Connectivity, User Auth, HTML, CSS, JavaScript, Bootstrap  |
-|<h4>Other: </h4>|  OpenCV, Docker, Linux Kernel, Git, PyQT5, Tkinter, Android Development |
+|<h4>Programming Languages: </h4>|  Python, JavaScript, C++, Java  |
+|<h4>Robotics Stack: </h4>|  ROS, Gazebo, MoveIt, RViz, Locomotion, Communication (Wi-Fi, Radio), MCUs, PID Controller, Signal Filters  |
+|<h4>Databases: </h4> |  PostgreSQL, MongoDB, Oracle, MySQL |
+|<h4>Web stack: </h4>|  Node.js, React, User Auth, Database connectivity, HTML, CSS, Bootstrap   |
+|<h4>Other: </h4>|  Cloud (AWS), Linux Kernel, OpenCV, Docker, GUI  |
 
 | |  |
 | ------------- | ------------- |
