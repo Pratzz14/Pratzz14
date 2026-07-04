@@ -1,33 +1,30 @@
 <h1 align="center">Hi 👋, I'm Pratik Mahankal</h1>
-<h3 align="center">Loves to create, Loves to WIN!</h3>
+<p align="center">
+Software Engineer building scalable AI applications, robotics software, and modern data platforms
+</p>
 
-- 🔭 I’m currently working on **improving my robotics stack**
+- 🌐 Portfolio: **https://mrpratik.in**
+- 📫 Reach me at **pratik.mahankal14@gmail.com**
+- 👨‍💻 All of my project's video demos are available **[here, likes are appreciated ^_^](https://www.youtube.com/channel/UClGeOrZDnAMcgiJbdG135Sw)**
+- 🤖 I’m currently working on **improving my Robotics and AI stack**
 
-- 🌱 I’m currently learning **low-level stuff, to understand and have more control over my code**
+---
 
-- 👨‍💻 All of my projects are available at [Here. Video demos, likes are appreciated ^_^](https://www.youtube.com/channel/UClGeOrZDnAMcgiJbdG135Sw) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclgeorzdnamcgijbdg135sw" height="30" width="40" />
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **pratik.mahankal14@gmail.com**
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Python, C++, JavaScript, SQL |
+| **AI / ML** | GenAI, Computer Vision, PyTorch |
+| **Data Engineering** | MS Fabric, MS Purview, Snowflake |
+| **Web** | FastAPI, React, Azure, PostgreSQL, MongoDB, Redis |
+| **Robotics** | ROS, Gazebo, MoveIt, RViz, LiDAR, MCUs |
+| **DevOps & Tools** | Docker, Linux, Git, CI/CD |
 
-- 📄 Know about my experiences [Resume - Pratik Mahankal](https://drive.google.com/file/d/18dPksqcU-0Ur_awr4X2gIjLSqhI4Cxpg/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:
-<a href="https://twitter.com/pratik_mahankal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_mahankal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratikmahankal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratikmahankal" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik_oo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_oo_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UClGeOrZDnAMcgiJbdG135Sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclgeorzdnamcgijbdg135sw" height="30" width="40" /></a>
-</p> </h3>
+## 📈 GitHub Stats
 
-<h3 align="left">My Tech Stack:</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratzz14&theme=tokyonight" />
 
-| |  |
-| ------------- | ------------- |
-|<h4>Programming Languages: </h4>|  Python, JavaScript, C++, Java  |
-|<h4>Robotics Stack: </h4>|  ROS, Gazebo, MoveIt, RViz, Locomotion, Communication (Wi-Fi, Radio), MCUs, PID Controller, Signal Filters  |
-|<h4>Databases: </h4> |  PostgreSQL, MongoDB, Oracle, MySQL |
-|<h4>Web stack: </h4>|  Node.js, React, User Auth, Database connectivity, HTML, CSS, Bootstrap   |
-|<h4>Other: </h4>|  Cloud (AWS), Linux Kernel, OpenCV, Docker, GUI  |
-
-| |  |
-| ------------- | ------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratzz14&show_icons=true&locale=en" alt="pratzz14" /></p> | <br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratzz14&" alt="pratzz14" /></p>  |
+---
